@@ -1,0 +1,3 @@
+# phonon_assign
+
+This is to assign the phonon mode at certain point in Brillouin zone to a mode with irep such as M2+ or R3+ .... 
