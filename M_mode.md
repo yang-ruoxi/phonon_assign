@@ -19,7 +19,7 @@ First, a modulation structure needs to be created: `phonopy --dim='x x x' modula
 
 `MODULATION = 2 2 2, 0.5 0.5 0 1 20`
 
-shoud be included. 
+shoud be included in the .conf file. For details check the phonopy website.  
 
 Once you get the MPOSCAR, rename it to POSCAR, and check its symmetry by doing `phonopy --symmetry` (because phonopy takes POSCAR by default).
 
